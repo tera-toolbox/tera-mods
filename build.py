@@ -31,7 +31,7 @@ def guiname(x):
             return x['options']['niceName']
     return x['name']
     
-result = sorted(result, key = guiname)
+result = sorted(result, key = lambda x: guiname(x).lower())
 
 with open('modulelist.json', 'w') as fh:
     json.dump(result, fh)
