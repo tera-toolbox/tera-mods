@@ -28,7 +28,6 @@ https://raw.githubusercontent.com/Mister-Kay/boss-ping-remover/master/module.jso
 https://raw.githubusercontent.com/Mister-Kay/no-more-crazy-capes/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/msg-enrage/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-loot/master/module.json
-https://raw.githubusercontent.com/seraphinush-gaming/auto-cutscene/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-camera/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/no-more-wasted-backstabs/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/module.json
@@ -37,7 +36,6 @@ https://raw.githubusercontent.com/SerenTera/afk-notify/master/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-stub/master/module.json
 https://raw.githubusercontent.com/ayylmar/box/master/module.json
 https://raw.githubusercontent.com/Owyn/generic-box-opener-item-user/master/module.json
-https://raw.githubusercontent.com/ayylmar/abnormality-blocker/master/module.json
 https://raw.githubusercontent.com/ayylmar/improved-lfg/master/module.json
 https://raw.githubusercontent.com/ayylmar/no-more-death-animations/master/module.json
 https://raw.githubusercontent.com/ayylmar/infinity-journal/master/module.json
@@ -64,3 +62,5 @@ https://raw.githubusercontent.com/caali-hackerman/dw-guide/master/module.json
 https://raw.githubusercontent.com/valkyr1e-tera/gls-guide/master/module.json
 https://raw.githubusercontent.com/Owyn/talents_info/master/module.json
 https://raw.githubusercontent.com/Owyn/party_death_marker_pointers/master/module.json
+https://raw.githubusercontent.com/Mister-Kay/arun-breath-fix/master/module.json
+https://raw.githubusercontent.com/Mister-Kay/aura-range/master/module.json
