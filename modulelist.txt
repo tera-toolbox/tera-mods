@@ -1,6 +1,5 @@
 https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/module.json
 https://raw.githubusercontent.com/codeagon/fps-utils/master/module.json
-https://raw.githubusercontent.com/codeagon/Astral-TERA/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/command/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/bugfix/master/module.json

@@ -23,7 +23,15 @@ for url in lines:
     print(url)
 
 # Sort by name
-result = sorted(result, key = lambda x: x['name'])
+def guiname(x):
+    if 'options' in x:
+        if 'guiName' in x['options']:
+            return x['options']['guiName']
+        if 'niceName' in x['options']:
+            return x['options']['niceName']
+    return x['name']
+    
+result = sorted(result, key = guiname)
 
 with open('modulelist.json', 'w') as fh:
     json.dump(result, fh)
