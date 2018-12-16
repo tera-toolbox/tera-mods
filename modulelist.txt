@@ -66,3 +66,6 @@ https://raw.githubusercontent.com/Mister-Kay/arun-breath-fix/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/aura-range/master/module.json
 https://raw.githubusercontent.com/Owyn/HH-P4-Firewall-SafeSpot-Markers/master/module.json
 https://raw.githubusercontent.com/Owyn/no-more-trash-lootbeams/master/module.json
+https://raw.githubusercontent.com/HakuryuuDom/translate-chat/master/module.json
+https://raw.githubusercontent.com/HakuryuuDom/ui/master/module.json
+https://raw.githubusercontent.com/HakuryuuDom/item-cache/master/module.json
