@@ -1,7 +1,23 @@
 import urllib.request
 import os
 import json
+from html.parser import HTMLParser
 
+class MLStripper(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.reset()
+        self.fed = []
+    def handle_data(self, d):
+        self.fed.append(d)
+    def get_data(self):
+        return ''.join(self.fed)
+
+def strip_tags(html):
+    s = MLStripper()
+    s.feed(html)
+    return s.get_data()
+    
 # Download all module.json files from the list
 lines = open('modulelist.txt').readlines()
 result = []
@@ -26,9 +42,9 @@ for url in lines:
 def guiname(x):
     if 'options' in x:
         if 'guiName' in x['options']:
-            return x['options']['guiName']
+            return strip_tags(x['options']['guiName'])
         if 'niceName' in x['options']:
-            return x['options']['niceName']
+            return strip_tags(x['options']['niceName'])
     return x['name']
     
 result = sorted(result, key = lambda x: guiname(x).lower())
