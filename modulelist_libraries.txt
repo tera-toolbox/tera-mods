@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/caali-hackerman/command/master/module.json
+https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json
+https://raw.githubusercontent.com/Kaseaa/library/master/module.json
+https://raw.githubusercontent.com/HakuryuuDom/ui/master/module.json

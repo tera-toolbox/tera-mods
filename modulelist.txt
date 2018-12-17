@@ -1,7 +1,5 @@
 https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/module.json
 https://raw.githubusercontent.com/codeagon/fps-utils/master/module.json
-https://raw.githubusercontent.com/caali-hackerman/command/master/module.json
-https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/bugfix/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/true-everful-nostrum/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/instant-everything/master/module.json
@@ -11,7 +9,6 @@ https://raw.githubusercontent.com/caali-hackerman/data-logger/master/update/Caal
 https://raw.githubusercontent.com/caali-hackerman/data-logger/master/update/CaaliStateTracker/module.json
 https://raw.githubusercontent.com/Snugglez/GG-Reset/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/no-custom-loadingscreens/master/module.json
-https://raw.githubusercontent.com/Kaseaa/library/master/module.json
 https://raw.githubusercontent.com/Kaseaa/fps-booster-2000/master/module.json
 https://raw.githubusercontent.com/Snugglez/Tuwanguide/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/ping-compensation/master/module.json
@@ -67,5 +64,4 @@ https://raw.githubusercontent.com/Mister-Kay/aura-range/master/module.json
 https://raw.githubusercontent.com/Owyn/HH-P4-Firewall-SafeSpot-Markers/master/module.json
 https://raw.githubusercontent.com/Owyn/no-more-trash-lootbeams/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/translate-chat/master/module.json
-https://raw.githubusercontent.com/HakuryuuDom/ui/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/item-cache/master/module.json
