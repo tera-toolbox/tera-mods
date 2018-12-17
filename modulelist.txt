@@ -53,7 +53,6 @@ https://raw.githubusercontent.com/seraphinush-gaming/block-list/master/module.js
 https://raw.githubusercontent.com/SaltyMonkey/Salt-remover/master/module.json
 https://raw.githubusercontent.com/Owyn/Achievements/master/module.json
 https://raw.githubusercontent.com/Snugglez/mount-prediction/master/module.json
-https://raw.githubusercontent.com/Owyn/no_more_wasted_grim-strikes/master/module.json
 https://raw.githubusercontent.com/codeagon/rainbow/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/dw-guide/master/module.json
 https://raw.githubusercontent.com/valkyr1e-tera/gls-guide/master/module.json
