@@ -67,3 +67,4 @@ https://raw.githubusercontent.com/HakuryuuDom/item-cache/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/chat-mememizer/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/NoMoreAnnoyingTitles/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/server-exposer/master/module.json
+https://raw.githubusercontent.com/HakuryuuDom/rootbeer/master/module.json
