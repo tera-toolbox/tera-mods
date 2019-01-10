@@ -1,9 +1,0 @@
-https://raw.githubusercontent.com/Owyn/no_more_wasted_grim-strikes/master/module.json
-https://raw.githubusercontent.com/Owyn/rk9guide/master/module.json
-https://raw.githubusercontent.com/Owyn/generic-box-opener-item-user/master/module.json
-https://raw.githubusercontent.com/Owyn/aaguide/master/module.json
-https://raw.githubusercontent.com/Owyn/Achievements/master/module.json
-https://raw.githubusercontent.com/Owyn/talents_info/master/module.json
-https://raw.githubusercontent.com/Owyn/party_death_marker_pointers/master/module.json
-https://raw.githubusercontent.com/Owyn/HH-P4-Firewall-SafeSpot-Markers/master/module.json
-https://raw.githubusercontent.com/Owyn/no-more-trash-lootbeams/master/module.json
