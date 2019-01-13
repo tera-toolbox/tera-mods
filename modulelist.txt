@@ -37,6 +37,7 @@ https://raw.githubusercontent.com/ayylmar/infinity-journal/master/module.json
 https://raw.githubusercontent.com/Kaseaa/tera-guide/master/module.json
 https://raw.githubusercontent.com/soler91/mongord/master/module.json
 https://raw.githubusercontent.com/codeagon/no-drunk-screen/master/module.json
+http://proxy.milice.se/modules/hide-binding-scythes/module.json
 https://raw.githubusercontent.com/soler91/hide-dmg/master/module.json
 https://raw.githubusercontent.com/soler91/Anti-Bodyblock/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/quick-load/master/module.json
