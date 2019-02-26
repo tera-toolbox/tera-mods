@@ -72,3 +72,4 @@ https://raw.githubusercontent.com/Owyn/talents_info/master/module.json
 https://raw.githubusercontent.com/Owyn/party_death_marker_pointers/master/module.json
 https://raw.githubusercontent.com/Owyn/HH-P4-Firewall-SafeSpot-Markers/master/module.json
 https://raw.githubusercontent.com/Owyn/no-more-trash-lootbeams/master/module.json
+https://raw.githubusercontent.com/soler91/unicast-free/master/module.json
