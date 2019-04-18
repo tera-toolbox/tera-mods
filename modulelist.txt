@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/caali-hackerman/bugfix/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/true-everful-nostrum/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/instant-everything/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/flasher/master/module.json
+https://raw.githubusercontent.com/caali-hackerman/shaker/master/module.json
 https://raw.githubusercontent.com/Leyki/Socialize/master/module.json
 https://raw.githubusercontent.com/Kaseaa/Tera-Settings-Saver/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/data-logger/master/update/CaaliLogger/module.json
