@@ -108,3 +108,4 @@ https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Red%20Miko%20
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Castanica%20Demon/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Pixie/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Whiter%20Dyeable%20Jeans%20and%20Jacket/module.json
+https://raw.githubusercontent.com/Gl0/TeraTimeStamps/master/module.json
