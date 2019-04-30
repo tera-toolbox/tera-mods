@@ -128,3 +128,5 @@ https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Priest
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Sorcerer%20Gloomy%20Bear%20Patches/module.json
 
 https://raw.githubusercontent.com/Gl0/TeraTimeStamps/master/module.json
+
+https://raw.githubusercontent.com/Snugglez/elin-matching-ears-and-tail-client-mod/master/module.json
