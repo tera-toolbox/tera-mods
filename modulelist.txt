@@ -82,7 +82,6 @@ https://raw.githubusercontent.com/Owyn/show_hp_etchings/master/module.json
 https://raw.githubusercontent.com/Owyn/talents_info/master/module.json 
 https://raw.githubusercontent.com/soler91/unicast-free/master/module.json
 
-https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Battle%20Bunny%20Gunner%20Mech/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Better%20Dyeable%20Flight%20Suit/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Castanic%20Sleepy%20Running%20Togs/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Charcoal%20Eldritch%20No%20Skirt/module.json
@@ -126,7 +125,16 @@ https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic%20Strawberry%20Nuthatch/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Priest%20Iceglow%20Staff/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Sorcerer%20Gloomy%20Bear%20Patches/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Awakened%20Battle%20Bunny%20Gunner%20Mech/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Fairy%20Stump%20Mount/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Flying%20Pink%20Cushion%20Mount/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Pink%20Fishie%20Set/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Pink%20Royal%20Diamond%20Dragon%20Mount/module.json
 
 https://raw.githubusercontent.com/Gl0/TeraTimeStamps/master/module.json
 
 https://raw.githubusercontent.com/Snugglez/elin-matching-ears-and-tail-client-mod/master/module.json
+https://raw.githubusercontent.com/Snugglez/more-dyable-business-suit-client-mod/master/module.json
+https://raw.githubusercontent.com/Snugglez/shut-up-anya-client-mod/master/module.json
+
+https://raw.githubusercontent.com/Owyn/fps-pack/master/module.json
