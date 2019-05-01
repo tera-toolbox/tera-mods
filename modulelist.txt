@@ -126,10 +126,19 @@ https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Priest%20Iceglow%20Staff/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Sorcerer%20Gloomy%20Bear%20Patches/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Awakened%20Battle%20Bunny%20Gunner%20Mech/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Castanic%20Female%20Hair%203%20Pink%20Horns/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Elin%20Brighter%20New%20Hairstyles/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Elin%20Matching%20Ears%20and%20Tails%20Remaster/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Elin%20Prettier%20Skin/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Fairy%20Stump%20Mount/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Flying%20Pink%20Cushion%20Mount/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Pink%20Fishie%20Set/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Pink%20Royal%20Diamond%20Dragon%20Mount/module.json
+
+https://raw.githubusercontent.com/RavenMods/Nier-Automata-2B-Mod-for-Elin/master/module.json
+https://raw.githubusercontent.com/RavenMods/Full-Black-Parthian-Scarf/master/module.json
+https://raw.githubusercontent.com/RavenMods/Black-PUBG-Costume-for-males/master/module.json
+https://raw.githubusercontent.com/RavenMods/Castanic-Male-White-Hair/master/module.json
 
 https://raw.githubusercontent.com/Gl0/TeraTimeStamps/master/module.json
 
