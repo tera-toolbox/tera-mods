@@ -51,4 +51,6 @@ result = sorted(result, key = lambda x: guiname(x).lower())
 
 with open('modulelist.json', 'w') as fh:
     json.dump(result, fh)
+
+print(len(result), 'mods listed!')
     
