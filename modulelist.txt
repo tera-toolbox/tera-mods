@@ -81,6 +81,7 @@ https://raw.githubusercontent.com/Owyn/rk9guide/master/module.json
 https://raw.githubusercontent.com/Owyn/show_hp_etchings/master/module.json
 https://raw.githubusercontent.com/Owyn/talents_info/master/module.json 
 https://raw.githubusercontent.com/soler91/unicast-free/master/module.json
+https://raw.githubusercontent.com/SaltyMonkey/no-more-wasted-bubbles/master/module.json
 
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Better%20Dyeable%20Flight%20Suit/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Castanic%20Sleepy%20Running%20Togs/module.json
@@ -139,6 +140,12 @@ https://raw.githubusercontent.com/RavenMods/Nier-Automata-2B-Mod-for-Elin/master
 https://raw.githubusercontent.com/RavenMods/Full-Black-Parthian-Scarf/master/module.json
 https://raw.githubusercontent.com/RavenMods/Black-PUBG-Costume-for-males/master/module.json
 https://raw.githubusercontent.com/RavenMods/Castanic-Male-White-Hair/master/module.json
+https://raw.githubusercontent.com/RavenMods/Full-Black-PUBG-Costume/master/module.json
+https://raw.githubusercontent.com/RavenMods/Red-EXP-bar-Green-rested-EXP-bar/master/module.json
+https://raw.githubusercontent.com/RavenMods/Red-HP-Bar-for-party-members-Persona-5-inspired/master/module.json
+https://raw.githubusercontent.com/RavenMods/Red-and-Gray-Party-Window-Persona-5-inspired/master/module.json
+https://raw.githubusercontent.com/RavenMods/Red-and-Gray-HP-Bar-Persona-5-inspired/master/module.json
+https://raw.githubusercontent.com/RavenMods/Black-and-Red-Main-Menu/master/module.json
 
 https://raw.githubusercontent.com/Gl0/TeraTimeStamps/master/module.json
 
