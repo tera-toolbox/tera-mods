@@ -156,3 +156,22 @@ https://raw.githubusercontent.com/Snugglez/shut-up-anya-client-mod/master/module
 https://raw.githubusercontent.com/Owyn/fps-pack/master/module.json
 
 https://raw.githubusercontent.com/HakuryuuDom/Generic-GPK-Loader/master/module.json
+
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_CommunityWindow/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_EpWindow/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_EquipmentCombine/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_EquipmentUpgrade/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_GuildWindow/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_InteractionPopup/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_InventoryWindow/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_MiniMap/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_PaperDoll/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_PaperDollClears/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ParcelPostLog/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ProductionCreatePopUp/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ProductionList/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_SkillWindow_AutoHide/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_StoreWindow/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_SystemOption/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_TradePopup/module.json
+https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_WareHouseWindow/module.json
