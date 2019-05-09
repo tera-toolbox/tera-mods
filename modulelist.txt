@@ -98,8 +98,8 @@ https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Strawb
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Sugar%20Alice/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Whiter%20Dyeable%20Ice%20Cream%20Social/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Whiter%20Dyeable%20Raincoat%20Accents/module.json
-https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Ice%20Cream%20Social%20Dyeable%20Shoes%20%2B%20Black%20Pantyhose/module.json
-https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Ice%20Cream%20Social%20Dyeable%20Shoes%20%2B%20White%20Pantyhose/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Ice%20Cream%20Social%20Dyeable%20Shoes%20and%20Black%20Pantyhose/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Ice%20Cream%20Social%20Dyeable%20Shoes%20and%20White%20Pantyhose/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Ice%20Cream%20Social%20White%20Pantyhose/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pastel%20Pora%20Elinu%20Uniform/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pink%20Picnic%20Dress/module.json
@@ -111,7 +111,7 @@ https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Cute%20Cra
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Hana%20Reward%20Tier/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Boss%20HP%20Bar/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Controller%20UI/module.json
-https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Heart%20HP-MP/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Heart%20HP%20MP/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Hearts%20Crosshair/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Party%20Member%20HP%20Bar/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Taskbar%20Menu/module.json
