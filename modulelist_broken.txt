@@ -1,1 +1,6 @@
 https://raw.githubusercontent.com/Owyn/no_more_wasted_grim-strikes/master/module.json
+
+https://raw.githubusercontent.com/ayylmar/box/master/module.json
+https://raw.githubusercontent.com/ayylmar/improved-lfg/master/module.json
+https://raw.githubusercontent.com/ayylmar/no-more-death-animations/master/module.json
+https://raw.githubusercontent.com/ayylmar/infinity-journal/master/module.json

@@ -32,10 +32,6 @@ https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/module.json
 https://raw.githubusercontent.com/SerenTera/stop-dismount/master/module.json
 https://raw.githubusercontent.com/SerenTera/afk-notify/master/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-stub/master/module.json
-https://raw.githubusercontent.com/ayylmar/box/master/module.json
-https://raw.githubusercontent.com/ayylmar/improved-lfg/master/module.json
-https://raw.githubusercontent.com/ayylmar/no-more-death-animations/master/module.json
-https://raw.githubusercontent.com/ayylmar/infinity-journal/master/module.json
 https://raw.githubusercontent.com/Kaseaa/tera-guide/master/module.json
 https://raw.githubusercontent.com/soler91/mongord/master/module.json
 https://raw.githubusercontent.com/codeagon/no-drunk-screen/master/module.json
