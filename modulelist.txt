@@ -162,7 +162,6 @@ https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Intera
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_InventoryWindow/module.json
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_MiniMap/module.json
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_PaperDoll/module.json
-https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_PaperDoll_Clears/module.json
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ParcelPostLog/module.json
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ProductionCreatePopUp/module.json
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ProductionList/module.json
