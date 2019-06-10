@@ -53,4 +53,5 @@ with open('modulelist.json', 'w') as fh:
     json.dump(result, fh)
 
 print(len(result), 'mods listed!')
-    
+print(sum(1 for x in result if 'category' not in x or x['category'] != 'client'), 'network mods listed!')
+print(sum(1 for x in result if 'category' in x and x['category'] == 'client'), 'client mods listed!')
