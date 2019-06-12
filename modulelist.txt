@@ -111,6 +111,7 @@ https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Hea
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Hearts%20Crosshair/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Party%20Member%20HP%20Bar/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Taskbar%20Menu/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Simplified%20Pastel%20UI/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Static%20Heart%20Crosshair/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Yunicorn%20Defense%20Pop%20Up/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Archer%20Pink%20Slingshot/module.json
