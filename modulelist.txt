@@ -121,6 +121,7 @@ https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic%20Ninja%20Oni%20Removal/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic%20Pale%20Pink%20Princess%20Wand/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic%20Strawberry%20Nuthatch/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Ninja%20Pink%20Prop%20Fan/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Priest%20Iceglow%20Staff/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Sorcerer%20Gloomy%20Bear%20Patches/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Awakened%20Battle%20Bunny%20Gunner%20Mech/module.json
