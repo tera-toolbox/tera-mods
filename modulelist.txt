@@ -150,6 +150,7 @@ https://raw.githubusercontent.com/Gl0/TeraTimeStamps/master/module.json
 https://raw.githubusercontent.com/Snugglez/elin-matching-ears-and-tail-client-mod/master/module.json
 https://raw.githubusercontent.com/Snugglez/more-dyable-business-suit-client-mod/master/module.json
 https://raw.githubusercontent.com/Snugglez/shut-up-anya-client-mod/master/module.json
+https://raw.githubusercontent.com/Snugglez/no-more-castanic-male-horns/master/module.json
 
 https://raw.githubusercontent.com/Owyn/fps-pack/master/module.json
 
