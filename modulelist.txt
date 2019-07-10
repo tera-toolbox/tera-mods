@@ -153,8 +153,6 @@ https://raw.githubusercontent.com/Snugglez/more-dyable-business-suit-client-mod/
 https://raw.githubusercontent.com/Snugglez/shut-up-anya-client-mod/master/module.json
 https://raw.githubusercontent.com/Snugglez/no-more-castanic-male-horns/master/module.json
 
-https://raw.githubusercontent.com/Owyn/fps-pack/master/module.json
-
 https://raw.githubusercontent.com/HakuryuuDom/Generic-GPK-Loader/master/module.json
 
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_CommunityWindow/module.json
