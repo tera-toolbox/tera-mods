@@ -110,11 +110,14 @@ https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Whiter%20Dyea
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Cute%20Crafter%20Icons/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Hana%20Reward%20Tier/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Boss%20HP%20Bar/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Chat%20Window/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Controller%20UI/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Exp%20Bar/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Heart%20HP%20MP/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Hearts%20Crosshair/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Main%20Menu/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Party%20Member%20HP%20Bar/module.json
-https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Taskbar%20Menu/module.json
+https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Skill%20Slots/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Simplified%20Pastel%20UI/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Static%20Heart%20Crosshair/module.json
 https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Yunicorn%20Defense%20Pop%20Up/module.json
