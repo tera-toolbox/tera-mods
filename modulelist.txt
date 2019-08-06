@@ -52,7 +52,6 @@ https://raw.githubusercontent.com/valkyr1e-tera/gls-guide/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/arun-breath-fix/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/aura-range/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/translate-chat/master/module.json
-https://raw.githubusercontent.com/HakuryuuDom/item-cache/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/chat-mememizer/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/NoMoreAnnoyingTitles/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/server-exposer/master/module.json
