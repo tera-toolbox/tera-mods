@@ -56,7 +56,6 @@ https://raw.githubusercontent.com/SaltyMonkey/chat-mememizer/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/NoMoreAnnoyingTitles/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/server-exposer/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/rootbeer/master/module.json
-https://raw.githubusercontent.com/iribae/arborean-apparel/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Normalifier/master/module.json
 https://raw.githubusercontent.com/TeraProxy/EP-Tracker/master/module.json
 https://raw.githubusercontent.com/Leyki/tera-colorful-whispers/master/module.json

@@ -1,5 +1,7 @@
 https://raw.githubusercontent.com/HakuryuuDom/item-cache/master/module.json
 
+https://raw.githubusercontent.com/iribae/arborean-apparel/master/module.json
+
 https://raw.githubusercontent.com/Owyn/no_more_wasted_grim-strikes/master/module.json
 https://raw.githubusercontent.com/Owyn/fps-pack/master/module.json
 
