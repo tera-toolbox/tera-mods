@@ -16,8 +16,6 @@ https://raw.githubusercontent.com/Snugglez/Tuwanguide/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/ping-compensation/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/no-more-noctenium-lag/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/battle-notify/master/module.json
-https://raw.githubusercontent.com/SerenTera/DressUpYourFriends/master/module.json
-https://raw.githubusercontent.com/SerenTera/monster-marker/master/module.json
 https://raw.githubusercontent.com/Snugglez/No-More-Motes/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/skill-resets/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-vanguard/master/module.json
@@ -28,8 +26,6 @@ https://raw.githubusercontent.com/seraphinush-gaming/auto-loot/master/module.jso
 https://raw.githubusercontent.com/seraphinush-gaming/auto-camera/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/no-more-wasted-backstabs/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/module.json
-https://raw.githubusercontent.com/SerenTera/stop-dismount/master/module.json
-https://raw.githubusercontent.com/SerenTera/afk-notify/master/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-stub/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/tera-guide/master/module.json
 https://raw.githubusercontent.com/soler91/mongord/master/module.json
