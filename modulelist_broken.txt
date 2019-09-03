@@ -11,3 +11,7 @@ https://raw.githubusercontent.com/ayylmar/no-more-death-animations/master/module
 https://raw.githubusercontent.com/ayylmar/infinity-journal/master/module.json
 
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_PaperDoll_Clears/module.json
+
+https://raw.githubusercontent.com/soler91/HH-Firewall-Markers/master/module.json
+https://raw.githubusercontent.com/Owyn/HH-P3-FireWall-Replacer/master/module.json
+https://raw.githubusercontent.com/Owyn/HH-P4-Firewall-SafeSpot-Markers/master/module.json
