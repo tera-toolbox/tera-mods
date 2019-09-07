@@ -181,7 +181,6 @@ https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_TradeP
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_WareHouseWindow/module.json
 
 https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/GageBar_TopScreen/module.json
-https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/TransparentDamage/module.json
 https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/thinkblob/module.json
 
 https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json

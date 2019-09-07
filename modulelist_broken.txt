@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/ayylmar/improved-lfg/master/module.json
 https://raw.githubusercontent.com/ayylmar/no-more-death-animations/master/module.json
 https://raw.githubusercontent.com/ayylmar/infinity-journal/master/module.json
 
+https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/TransparentDamage/module.json
 https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_PaperDoll_Clears/module.json
 
 https://raw.githubusercontent.com/soler91/HH-Firewall-Markers/master/module.json
