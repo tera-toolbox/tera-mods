@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/seraphinush-gaming/auto-loot/master/module.jso
 https://raw.githubusercontent.com/seraphinush-gaming/auto-camera/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/no-more-wasted-backstabs/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/module.json
-https://raw.githubusercontent.com/Foglio1024/tcc-stub/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/tera-guide/master/module.json
 https://raw.githubusercontent.com/soler91/mongord/master/module.json
 https://raw.githubusercontent.com/codeagon/no-drunk-screen/master/module.json
