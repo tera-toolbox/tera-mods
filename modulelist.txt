@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/tera-toolbox-mods/elin-magic/master/module.jso
 
 https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/fps-manager/master/module.json
+https://raw.githubusercontent.com/SaltyMonkey/dynamic-day/master/module.json
 https://raw.githubusercontent.com/codeagon/fps-utils/master/module.json
 https://raw.githubusercontent.com/Leyki/Socialize/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/Tera-Settings-Saver/master/module.json
