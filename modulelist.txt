@@ -20,7 +20,6 @@ https://raw.githubusercontent.com/caali-hackerman/data-logger/master/update/Caal
 https://raw.githubusercontent.com/Snugglez/GG-Reset/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/fps-booster-2000/master/module.json
 https://raw.githubusercontent.com/Snugglez/Tuwanguide/master/module.json
-https://raw.githubusercontent.com/Mister-Kay/ping-compensation/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/no-more-noctenium-lag/master/module.json
 https://raw.githubusercontent.com/Snugglez/No-More-Motes/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-vanguard/master/module.json
@@ -38,7 +37,6 @@ https://raw.githubusercontent.com/soler91/hide-dmg/master/module.json
 https://raw.githubusercontent.com/soler91/Anti-Bodyblock/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/quick-load/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Essentials/master/module.json
-https://raw.githubusercontent.com/TeraProxy/Cosplayer/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Vanguardian/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Inspector/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Teabagger/master/module.json
@@ -71,7 +69,6 @@ https://raw.githubusercontent.com/Owyn/rk9guide/master/module.json
 https://raw.githubusercontent.com/Owyn/show_hp_etchings/master/module.json
 https://raw.githubusercontent.com/Owyn/talents_info/master/module.json 
 https://raw.githubusercontent.com/soler91/unicast-free/master/module.json
-https://raw.githubusercontent.com/SaltyMonkey/no-more-wasted-bubbles/master/module.json
 https://raw.githubusercontent.com/DeathDefying/crafting-calculator/master/module.json
 https://raw.githubusercontent.com/DeathDefying/bathysmal-guide/master/module.json
 https://raw.githubusercontent.com/DeathDefying/sc-guide/master/module.json
