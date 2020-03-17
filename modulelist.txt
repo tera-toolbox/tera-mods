@@ -75,7 +75,6 @@ https://raw.githubusercontent.com/DeathDefying/sc-guide/master/module.json
 https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_BossWindow/module.json
 https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_BuffsWindow/module.json
 https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_CharacterWindow/module.json
-https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_ChatWindow/module.json
 https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_FlightGauge/module.json
 https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_LfgWindow/module.json
 https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_PartyWindow/module.json
@@ -190,3 +189,4 @@ https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/GageBar_
 https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/thinkblob/module.json
 
 https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json
+https://raw.githubusercontent.com/Foglio1024/tcc-chat-link/master/module.json
