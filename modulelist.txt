@@ -69,6 +69,7 @@ https://raw.githubusercontent.com/Owyn/rk9guide/master/module.json
 https://raw.githubusercontent.com/Owyn/show_hp_etchings/master/module.json
 https://raw.githubusercontent.com/Owyn/talents_info/master/module.json 
 https://raw.githubusercontent.com/soler91/unicast-free/master/module.json
+https://raw.githubusercontent.com/SaltyMonkey/no-more-wasted-bubbles/master/module.json
 https://raw.githubusercontent.com/DeathDefying/crafting-calculator/master/module.json
 https://raw.githubusercontent.com/DeathDefying/bathysmal-guide/master/module.json
 https://raw.githubusercontent.com/DeathDefying/sc-guide/master/module.json
@@ -187,6 +188,6 @@ https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_WareHo
 
 https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/GageBar_TopScreen/module.json
 https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/thinkblob/module.json
-
+https://raw.githubusercontent.com/Foglio1024/tcc-chat-link/master/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-chat-link/master/module.json
