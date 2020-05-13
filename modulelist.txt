@@ -13,6 +13,8 @@ https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/module.jso
 https://raw.githubusercontent.com/SaltyMonkey/fps-manager/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/dynamic-day/master/module.json
 https://raw.githubusercontent.com/codeagon/fps-utils/master/module.json
+https://raw.githubusercontent.com/seraphinush-gaming/fps-utils-lite/master/module.json
+https://raw.githubusercontent.com/Risenio/fps-utils/master/module.json
 https://raw.githubusercontent.com/Leyki/Socialize/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/Tera-Settings-Saver/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/data-logger/master/update/CaaliLogger/module.json
@@ -194,3 +196,4 @@ https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.j
 https://raw.githubusercontent.com/Snugglez/Auto-Bank/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-banker/master/module.json
 https://raw.githubusercontent.com/Risenio/Auto-Bank/master/module.json
+
