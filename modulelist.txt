@@ -191,6 +191,6 @@ https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/thinkblo
 https://raw.githubusercontent.com/Foglio1024/tcc-chat-link/master/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json
 
+https://raw.githubusercontent.com/Snugglez/Auto-Bank/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-banker/master/module.json
 https://raw.githubusercontent.com/Risenio/Auto-Bank/master/module.json
-https://raw.githubusercontent.com/Snugglez/Auto-Bank/master/module.json
