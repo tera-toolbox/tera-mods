@@ -197,3 +197,5 @@ https://raw.githubusercontent.com/Snugglez/Auto-Bank/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-banker/master/module.json
 https://raw.githubusercontent.com/Risenio/Auto-Bank/master/module.json
 
+https://raw.githubusercontent.com/Snugglez/JustSpamF/master/module.json
+
