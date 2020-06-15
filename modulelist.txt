@@ -18,7 +18,6 @@ https://raw.githubusercontent.com/Risenio/fps-utils/master/module.json
 https://raw.githubusercontent.com/Leyki/Socialize/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/Tera-Settings-Saver/master/module.json
 https://raw.githubusercontent.com/caali-hackerman/data-logger/master/update/CaaliLogger/module.json
-https://raw.githubusercontent.com/caali-hackerman/data-logger/master/update/CaaliStateTracker/module.json
 https://raw.githubusercontent.com/Snugglez/GG-Reset/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/fps-booster-2000/master/module.json
 https://raw.githubusercontent.com/Snugglez/Tuwanguide/master/module.json
@@ -35,7 +34,6 @@ https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/tera-guide/master/module.json
 https://raw.githubusercontent.com/soler91/mongord/master/module.json
 https://raw.githubusercontent.com/codeagon/no-drunk-screen/master/module.json
-https://raw.githubusercontent.com/soler91/hide-dmg/master/module.json
 https://raw.githubusercontent.com/soler91/Anti-Bodyblock/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/quick-load/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Essentials/master/module.json
@@ -49,7 +47,8 @@ https://raw.githubusercontent.com/codeagon/rainbow/master/module.json
 https://raw.githubusercontent.com/valkyr1e-tera/gls-guide/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/arun-breath-fix/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/aura-range/master/module.json
-https://raw.githubusercontent.com/HakuryuuDom/translate-chat/master/module.json
+https://raw.githubusercontent.com/Pravv/translate-chat/master/module.json
+
 https://raw.githubusercontent.com/SaltyMonkey/chat-mememizer/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/NoMoreAnnoyingTitles/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/server-exposer/master/module.json
@@ -161,8 +160,6 @@ https://raw.githubusercontent.com/RavenMods/Red-and-Gray-Party-Window-Persona-5-
 https://raw.githubusercontent.com/RavenMods/Red-and-Gray-HP-Bar-Persona-5-inspired/master/module.json
 https://raw.githubusercontent.com/RavenMods/Black-and-Red-Main-Menu/master/module.json
 
-https://raw.githubusercontent.com/Gl0/TeraTimeStamps/master/module.json
-
 https://raw.githubusercontent.com/Snugglez/elin-matching-ears-and-tail-client-mod/master/module.json
 https://raw.githubusercontent.com/Snugglez/more-dyable-business-suit-client-mod/master/module.json
 https://raw.githubusercontent.com/Snugglez/shut-up-anya-client-mod/master/module.json
@@ -199,3 +196,5 @@ https://raw.githubusercontent.com/Risenio/Auto-Bank/master/module.json
 
 https://raw.githubusercontent.com/Snugglez/JustSpamF/master/module.json
 
+https://raw.githubusercontent.com/Leyki/tera-short-dmg-numbers/master/module.json
+https://raw.githubusercontent.com/Kaseaa/kuma-prediction/master/module.json
