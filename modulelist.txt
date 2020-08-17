@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/tera-toolbox-mods/elin-magic/master/module.jso
 https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/fps-manager/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/dynamic-day/master/module.json
+https://raw.githubusercontent.com/SaltyMonkey/no-more-delayed-buffs/master/module.json
 https://raw.githubusercontent.com/codeagon/fps-utils/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/fps-utils-lite/master/module.json
 https://raw.githubusercontent.com/Risenio/fps-utils/master/module.json
