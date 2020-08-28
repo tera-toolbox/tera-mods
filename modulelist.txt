@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/tera-toolbox-mods/battle-notify/master/module.
 https://raw.githubusercontent.com/tera-toolbox-mods/true-everful-nostrum/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/instant-everything/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/flasher/master/module.json
-https://raw.githubusercontent.com/tera-toolbox-mods/shaker/master/module.json
+https://raw.githubusercontent.com/tera-toolbox-mods/camera-control/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/skill-resets/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/no-custom-loadingscreens/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/dw-guide/master/module.json
