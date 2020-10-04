@@ -99,3 +99,5 @@ https://raw.githubusercontent.com/Snugglez/JustSpamF/master/module.json
 https://raw.githubusercontent.com/Leyki/tera-short-dmg-numbers/master/module.json
 https://raw.githubusercontent.com/Kaseaa/kuma-prediction/master/module.json
 https://raw.githubusercontent.com/teralove/fix-laggy-friends-list/master/module.json
+
+https://raw.githubusercontent.com/menmaa/cu-kill-feed/master/module.json
