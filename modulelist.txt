@@ -83,6 +83,9 @@ https://raw.githubusercontent.com/tsunpot/auto-cutscene-skip/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-extended-boss-bar/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-character-bar/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-onscreen-messages/master/module.json
+https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tba-mode/main/module.json
+https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tera-mode/main/module.json
+
 https://raw.githubusercontent.com/Koekkruimels/tera-healer-toolbox/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/Generic-GPK-Loader/master/module.json
 
