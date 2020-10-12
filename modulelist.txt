@@ -85,6 +85,7 @@ https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-character-bar/ma
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-onscreen-messages/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tba-mode/main/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tera-mode/main/module.json
+https://raw.githubusercontent.com/SaltyMonkey/tera-online-centered-clean-onscreen-messages/master/module.json
 
 https://raw.githubusercontent.com/Koekkruimels/tera-healer-toolbox/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/Generic-GPK-Loader/master/module.json
