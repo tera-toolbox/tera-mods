@@ -16,7 +16,6 @@ https://raw.githubusercontent.com/SaltyMonkey/no-more-delayed-buffs/master/modul
 https://raw.githubusercontent.com/SaltyMonkey/party-deaths-notifier/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/moongourd-spy/master/module.json
 
-https://raw.githubusercontent.com/codeagon/fps-utils/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/fps-utils-lite/master/module.json
 https://raw.githubusercontent.com/Risenio/fps-utils/master/module.json
 https://raw.githubusercontent.com/Leyki/Socialize/master/module.json
@@ -107,3 +106,5 @@ https://raw.githubusercontent.com/teralove/fix-laggy-friends-list/master/module.
 https://raw.githubusercontent.com/menmaa/cu-kill-feed/master/module.json
 
 https://raw.githubusercontent.com/SaltyMonkey/no-more-bugged-gunner-skillbar/main/module.json
+
+https://raw.githubusercontent.com/Foglio1024/shinra-toolbox-release/master/module.json
