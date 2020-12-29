@@ -106,5 +106,6 @@ https://raw.githubusercontent.com/menmaa/cu-kill-feed/master/module.json
 
 https://raw.githubusercontent.com/SaltyMonkey/no-more-bugged-gunner-skillbar/main/module.json
 https://raw.githubusercontent.com/SaltyMonkey/backstabs-manager/master/module.json
+https://raw.githubusercontent.com/SaltyMonkey/clean-screen-in-steroids/master/module.json
 
 https://raw.githubusercontent.com/Foglio1024/shinra-toolbox-release/master/module.json
