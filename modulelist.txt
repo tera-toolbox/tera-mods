@@ -8,6 +8,8 @@ https://raw.githubusercontent.com/tera-toolbox-mods/skill-resets/master/module.j
 https://raw.githubusercontent.com/tera-toolbox-mods/no-custom-loadingscreens/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/dw-guide/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/elin-magic/master/module.json
+https://raw.githubusercontent.com/Snugglez/Rookie-Notify/main/module.json
+https://raw.githubusercontent.com/memeslash/Jukebox/main/module.json
 
 https://raw.githubusercontent.com/SaltyMonkey/skill-prediction/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/fps-manager/master/module.json
@@ -15,6 +17,7 @@ https://raw.githubusercontent.com/SaltyMonkey/dynamic-day/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/no-more-delayed-buffs/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/party-deaths-notifier/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/moongourd-spy/master/module.json
+https://raw.githubusercontent.com/SaltyMonkey/tera-online-fixed-overlay-map/main/module.json
 
 https://raw.githubusercontent.com/seraphinush-gaming/fps-utils-lite/master/module.json
 https://raw.githubusercontent.com/Risenio/fps-utils/master/module.json
