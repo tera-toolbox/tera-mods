@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/seraphinush-gaming/auto-vanguard/master/module
 https://raw.githubusercontent.com/Mister-Kay/boss-ping-remover/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/no-more-crazy-capes/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/msg-enrage/master/module.json
-https://raw.githubusercontent.com/seraphinush-gaming/auto-loot/master/module.json
+https://raw.githubusercontent.com/seraphinush-gaming/auto-inspect/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-camera/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/tera-guide/master/module.json
@@ -112,3 +112,4 @@ https://raw.githubusercontent.com/SaltyMonkey/backstabs-manager/master/module.js
 https://raw.githubusercontent.com/SaltyMonkey/clean-screen-in-steroids/master/module.json
 
 https://raw.githubusercontent.com/Foglio1024/shinra-toolbox-release/master/module.json
+https://raw.githubusercontent.com/soler91/no-meter/main/module.json
