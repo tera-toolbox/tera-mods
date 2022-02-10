@@ -6,8 +6,6 @@ https://raw.githubusercontent.com/tera-toolbox-mods/flasher/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/camera-control/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/skill-resets/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/no-custom-loadingscreens/master/module.json
-https://raw.githubusercontent.com/tera-toolbox-mods/dw-guide/master/module.json
-https://raw.githubusercontent.com/tera-toolbox-mods/elin-magic/master/module.json
 https://raw.githubusercontent.com/Snugglez/Rookie-Notify/main/module.json
 https://raw.githubusercontent.com/memeslash/Jukebox/main/module.json
 
@@ -17,82 +15,44 @@ https://raw.githubusercontent.com/SaltyMonkey/dynamic-day/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/no-more-delayed-buffs/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/party-deaths-notifier/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/moongourd-spy/master/module.json
-https://raw.githubusercontent.com/SaltyMonkey/tera-online-fixed-overlay-map/main/module.json
 
 https://raw.githubusercontent.com/seraphinush-gaming/fps-utils-lite/master/module.json
 https://raw.githubusercontent.com/Risenio/fps-utils/master/module.json
-https://raw.githubusercontent.com/Leyki/Socialize/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/Tera-Settings-Saver/master/module.json
-https://raw.githubusercontent.com/caali-hackerman/data-logger/master/update/CaaliLogger/module.json
-https://raw.githubusercontent.com/Snugglez/GG-Reset/master/module.json
 https://raw.githubusercontent.com/tera-toolbox-mods/fps-booster-2000/master/module.json
-https://raw.githubusercontent.com/Snugglez/Tuwanguide/master/module.json
-https://raw.githubusercontent.com/Mister-Kay/no-more-noctenium-lag/master/module.json
 https://raw.githubusercontent.com/Snugglez/No-More-Motes/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-vanguard/master/module.json
-https://raw.githubusercontent.com/Mister-Kay/boss-ping-remover/master/module.json
-https://raw.githubusercontent.com/Mister-Kay/no-more-crazy-capes/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/msg-enrage/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-inspect/master/module.json
 https://raw.githubusercontent.com/seraphinush-gaming/auto-camera/master/module.json
 https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/module.json
-https://raw.githubusercontent.com/tera-toolbox-mods/tera-guide/master/module.json
-https://raw.githubusercontent.com/soler91/mongord/master/module.json
-https://raw.githubusercontent.com/codeagon/no-drunk-screen/master/module.json
 https://raw.githubusercontent.com/soler91/Anti-Bodyblock/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/quick-load/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Essentials/master/module.json
-https://raw.githubusercontent.com/TeraProxy/Vanguardian/master/module.json
-https://raw.githubusercontent.com/TeraProxy/Inspector/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Teabagger/master/module.json
-https://raw.githubusercontent.com/seraphinush-gaming/block-list/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/Salt-remover/master/module.json
 https://raw.githubusercontent.com/Snugglez/mount-prediction/master/module.json
 https://raw.githubusercontent.com/codeagon/rainbow/master/module.json
-https://raw.githubusercontent.com/valkyr1e-tera/gls-guide/master/module.json
-https://raw.githubusercontent.com/Mister-Kay/arun-breath-fix/master/module.json
-https://raw.githubusercontent.com/Mister-Kay/aura-range/master/module.json
-https://raw.githubusercontent.com/Pravv/translate-chat/master/module.json
 
-https://raw.githubusercontent.com/SaltyMonkey/chat-mememizer/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/NoMoreAnnoyingTitles/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/server-exposer/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/rootbeer/master/module.json
 https://raw.githubusercontent.com/TeraProxy/Normalifier/master/module.json
 https://raw.githubusercontent.com/TeraProxy/EP-Tracker/master/module.json
 https://raw.githubusercontent.com/Leyki/tera-colorful-whispers/master/module.json
-https://raw.githubusercontent.com/Owyn/aaguide/master/module.json
 https://raw.githubusercontent.com/Owyn/Achievements/master/module.json
 https://raw.githubusercontent.com/Owyn/AFKer/master/module.json
-https://raw.githubusercontent.com/Owyn/Bahaar-Guide/master/module.json
-https://raw.githubusercontent.com/Owyn/block-level-1-whispers/master/module.json
 https://raw.githubusercontent.com/Owyn/generic-box-opener-item-user/master/module.json
-https://raw.githubusercontent.com/Owyn/nest-guide/master/module.json
-https://raw.githubusercontent.com/Owyn/no-more-trash-lootbeams/master/module.json
 https://raw.githubusercontent.com/Owyn/no_more_guardian/master/module.json
-https://raw.githubusercontent.com/Owyn/party_death_marker_pointers/master/module.json
-https://raw.githubusercontent.com/Owyn/rk9guide/master/module.json
-https://raw.githubusercontent.com/Owyn/show_hp_etchings/master/module.json
-https://raw.githubusercontent.com/Owyn/talents_info/master/module.json 
 https://raw.githubusercontent.com/soler91/unicast-free/master/module.json
-https://raw.githubusercontent.com/SaltyMonkey/no-more-wasted-bubbles/master/module.json
-https://raw.githubusercontent.com/DeathDefying/crafting-calculator/master/module.json
-https://raw.githubusercontent.com/DeathDefying/bathysmal-guide/master/module.json
-https://raw.githubusercontent.com/DeathDefying/sc-guide/master/module.json
 
 https://raw.githubusercontent.com/tsunpot/auto-cutscene-skip/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-extended-boss-bar/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-character-bar/master/module.json
 https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-onscreen-messages/master/module.json
-https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tba-mode/master/module.json
-https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tera-mode/master/module.json
-https://raw.githubusercontent.com/SaltyMonkey/tera-online-centered-clean-onscreen-messages/master/module.json
 
-https://raw.githubusercontent.com/Koekkruimels/tera-healer-toolbox/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/Generic-GPK-Loader/master/module.json
 
-https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/GageBar_TopScreen/module.json
-https://raw.githubusercontent.com/Foglio1024/toolbox-client-mods/master/thinkblob/module.json
 https://raw.githubusercontent.com/Foglio1024/tcc-toolbox-release/master/module.json
 
 https://raw.githubusercontent.com/Snugglez/Auto-Bank/master/module.json
@@ -103,9 +63,6 @@ https://raw.githubusercontent.com/Snugglez/JustSpamF/master/module.json
 
 https://raw.githubusercontent.com/Leyki/tera-short-dmg-numbers/master/module.json
 https://raw.githubusercontent.com/Kaseaa/kuma-prediction/master/module.json
-https://raw.githubusercontent.com/teralove/fix-laggy-friends-list/master/module.json
-
-https://raw.githubusercontent.com/menmaa/cu-kill-feed/master/module.json
 
 https://raw.githubusercontent.com/SaltyMonkey/no-more-bugged-gunner-skillbar/main/module.json
 https://raw.githubusercontent.com/SaltyMonkey/backstabs-manager/master/module.json
