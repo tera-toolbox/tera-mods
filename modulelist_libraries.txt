@@ -1,6 +1,5 @@
 https://raw.githubusercontent.com/tera-private-toolbox/command/master/module.json
 https://raw.githubusercontent.com/tera-private-toolbox/tera-game-state/master/module.json
 https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json
+https://raw.githubusercontent.com/tera-private-toolbox/external-interface/master/module.json
 https://raw.githubusercontent.com/HakuryuuDom/ui/master/module.json
-
-https://raw.githubusercontent.com/Foglio1024/tcc-stub/master/module.json
