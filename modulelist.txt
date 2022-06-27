@@ -29,6 +29,7 @@ https://raw.githubusercontent.com/tera-private-mods/JustSpamF/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/monitor-control/master/module.json
 https://raw.githubusercontent.com/hsdn/party-death-markers/master/module.json
 http://git.dev.hsdn.org/tera-v92/ngsp/raw/master/module.json
+http://git.dev.hsdn.org/tera-v92/ngsp-v100/raw/master/module.json
 https://raw.githubusercontent.com/hsdn/npc-summoner/master/module.json
 https://raw.githubusercontent.com/hsdn/rootbeer/master/module.json
 https://raw.githubusercontent.com/tera-private-mods/shinra-toolbox/master/module.json
